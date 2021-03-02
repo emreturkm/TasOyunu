@@ -1,0 +1,30 @@
+C:\Users\emret\source\repos\Odev1Deneme\bin\Debug\Odev1Deneme.exe.config
+C:\Users\emret\source\repos\Odev1Deneme\bin\Debug\Odev1Deneme.exe
+C:\Users\emret\source\repos\Odev1Deneme\bin\Debug\Odev1Deneme.pdb
+C:\Users\emret\source\repos\Odev1Deneme\obj\Debug\Odev1Deneme.csprojAssemblyReference.cache
+C:\Users\emret\source\repos\Odev1Deneme\obj\Debug\Odev1Deneme.Form1.resources
+C:\Users\emret\source\repos\Odev1Deneme\obj\Debug\Odev1Deneme.Properties.Resources.resources
+C:\Users\emret\source\repos\Odev1Deneme\obj\Debug\Odev1Deneme.csproj.GenerateResource.cache
+C:\Users\emret\source\repos\Odev1Deneme\obj\Debug\Odev1Deneme.csproj.CoreCompileInputs.cache
+C:\Users\emret\source\repos\Odev1Deneme\obj\Debug\Odev1Deneme.exe
+C:\Users\emret\source\repos\Odev1Deneme\obj\Debug\Odev1Deneme.pdb
+C:\Users\emret\Desktop\Odev1Deneme\bin\Debug\Odev1Deneme.exe.config
+C:\Users\emret\Desktop\Odev1Deneme\bin\Debug\Odev1Deneme.exe
+C:\Users\emret\Desktop\Odev1Deneme\bin\Debug\Odev1Deneme.pdb
+C:\Users\emret\Desktop\Odev1Deneme\obj\Debug\Odev1Deneme.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\Odev1Deneme\obj\Debug\Odev1Deneme.Form1.resources
+C:\Users\emret\Desktop\Odev1Deneme\obj\Debug\Odev1Deneme.Properties.Resources.resources
+C:\Users\emret\Desktop\Odev1Deneme\obj\Debug\Odev1Deneme.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\Odev1Deneme\obj\Debug\Odev1Deneme.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\Odev1Deneme\obj\Debug\Odev1Deneme.exe
+C:\Users\emret\Desktop\Odev1Deneme\obj\Debug\Odev1Deneme.pdb
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\bin\Debug\Odev1Deneme.exe.config
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\bin\Debug\Odev1Deneme.exe
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\bin\Debug\Odev1Deneme.pdb
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\obj\Debug\Odev1Deneme.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\obj\Debug\Odev1Deneme.Form1.resources
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\obj\Debug\Odev1Deneme.Properties.Resources.resources
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\obj\Debug\Odev1Deneme.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\obj\Debug\Odev1Deneme.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\obj\Debug\Odev1Deneme.exe
+C:\Users\emret\Desktop\ders\2. sınıf 1.dönem\ödevler\yazılım sınama ödevleri\Odev1Deneme(tuğlasız)\obj\Debug\Odev1Deneme.pdb
